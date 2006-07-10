@@ -7,7 +7,7 @@ License:	GPL v2
 Group:		X11/Applications
 Source0:	http://www.kde-look.org/content/files/22605-%{name}-%{version}.tar.bz2
 # Source0-md5:	c9095d41467d9256c334d552bb936e1e
-URL:		http://www.kde-look.org/content/download.php?content=22605&id=1
+URL:		http://kde-apps.org/content/show.php?content=22605
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	kdelibs-devel >= 9:3.2.0
