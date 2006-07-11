@@ -15,12 +15,13 @@ BuildRequires:	rpmbuild(macros) >= 1.129
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-KDesktop Menu is a replacement menu for use with kicker (KDE). It was inspired
-from the Gnome menu applet.... heavily.
+KDesktop Menu is a replacement menu for use with kicker (KDE). It was
+inspired from the Gnome menu applet.... heavily.
 
 %description -l pl
-KDesktop Menu to zamiennik menu dla KDE zainspirowany przez menu GNOME.
- 
+KDesktop Menu to zamiennik menu dla KDE zainspirowany przez menu
+GNOME.
+
 %prep
 %setup -q
 
