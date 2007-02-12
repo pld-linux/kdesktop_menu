@@ -1,5 +1,5 @@
 Summary:	A replacement menu for use with kicker (KDE)
-Summary(pl.UTF-8):   Zamiennik menu dla KDE
+Summary(pl.UTF-8):	Zamiennik menu dla KDE
 Name:		kdesktop_menu
 Version:	0.3
 Release:	0.1
