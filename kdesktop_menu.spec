@@ -1,5 +1,5 @@
 Summary:	A replacement menu for use with kicker (KDE)
-Summary(pl):	Zamiennik menu dla KDE
+Summary(pl.UTF-8):   Zamiennik menu dla KDE
 Name:		kdesktop_menu
 Version:	0.3
 Release:	0.1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 KDesktop Menu is a replacement menu for use with kicker (KDE). It was
 inspired from the Gnome menu applet.... heavily.
 
-%description -l pl
+%description -l pl.UTF-8
 KDesktop Menu to zamiennik menu dla KDE zainspirowany przez menu
 GNOME.
 
